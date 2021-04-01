@@ -1,1 +1,1 @@
-# Processamento-Digital-de-Imagens-Gonzalez
+# Processamento Digital de Imagens Gonzalez
